@@ -1,0 +1,14 @@
+{
+    "audio": {
+        "rate": 16000,
+        "chunk": 1280,
+        "silence_threshold": 500,
+        "silence_duration": 1.7,
+        "mic_index": 1,
+        "language": "en"
+    },
+    "tts": {
+        "voice_model": "am_michael",
+        "speed": 1
+    }
+}
